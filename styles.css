@@ -1,0 +1,24 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: darkgoldenrod;
+    font-weight: 800;
+}
+
+h2 {
+    background-color: green;
+    font-weight: 300;
+    align-content: center;
+}
+
+img {
+    background-color: aqua;
+}
+
+li {
+    background-color: rgb(112, 149, 170);
+    color: white;
+    font-style: italic;
+}
